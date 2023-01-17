@@ -1,0 +1,27 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "description": "company project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooja-sisodia/miniproject.git"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Pooja Sisodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pooja-sisodia/miniproject/issues"
+  },
+  "homepage": "https://github.com/Pooja-sisodia/miniproject#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  }
+}
